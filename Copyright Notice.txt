@@ -1,0 +1,7 @@
+Copyright 2023 Anuj Mongia, Ansh Arora, Adam Wajda
+
+The source code in this repository is proprietary and subject to copyright protection.
+
+No part of this code may be distributed, published, or used for commercial purposes without the explicit written permission of the copyright owner(s).
+
+You are, however, free to use, and modify this code for personal, non-commercial use.
